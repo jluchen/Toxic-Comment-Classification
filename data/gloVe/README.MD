@@ -1,0 +1,1 @@
+Holds glove vectors.  Download from https://nlp.stanford.edu/projects/glove/.

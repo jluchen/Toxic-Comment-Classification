@@ -1,0 +1,1 @@
+Data is too big to store on Git.  You can download easily from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data.
